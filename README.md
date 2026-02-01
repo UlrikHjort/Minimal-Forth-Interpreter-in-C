@@ -7,6 +7,10 @@ A lightweight **[Forth](https://en.wikipedia.org/wiki/Forth_(programming_languag
 ```bash
 gcc -o forth_mini forth_mini.c
 ./forth_mini
+
+or
+
+./forth_mini < file.f 
 ```
 
 ## Features
