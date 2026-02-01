@@ -2,7 +2,7 @@
 
 A lightweight **[Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))** interpreter implementation in C (~250 lines), featuring the core functionality of the Forth language: stack operations, word definitions, and basic I/O.
 
-## Building
+## Building and Running
 
 ```bash
 gcc -o forth_mini forth_mini.c
